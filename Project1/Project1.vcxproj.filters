@@ -39,5 +39,122 @@
     <None Include="fas.tmp">
       <Filter>资源文件</Filter>
     </None>
+    <None Include="Examples\column.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\column.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\column.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\daffodilnum.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\daffodilnum.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\daffodilnum.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\F2C.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\F2C.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\F2C.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\function.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\function.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\function.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\max.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\max.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\max.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\permutation.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\permutation.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\permutation.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\quicksort.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\quicksort.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\quicksort.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample0.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample0.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample0.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample1.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample1.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample1.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample2.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample2.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample2.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample3.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample3.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\sample3.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\SumOfn!.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\SumOfn!.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\SumOfn!.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\test_recursive.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\test_recursive.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="Examples\test_recursive.pl0">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>

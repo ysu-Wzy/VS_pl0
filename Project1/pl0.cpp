@@ -26,6 +26,7 @@ int main()
 	bool nxtlev[symnum];
 	printf("Input pl/0 file ?");
 	scanf("%s", fname);                               /*输入文件名*/
+	printf("%s", fname);
 	fin = fopen(fname, "r");
 	if (fin)
 	{
@@ -219,7 +220,7 @@ void error(int n)
  *
  *  被函数getsym调用
  */
-int getch()
+int getch()  /*加了个1*/
 {
 	if (cc == ll)
 	{
@@ -238,7 +239,7 @@ int getch()
 			//fscanf(fin,"%c",&ch)
 			if (EOF == fscanf(fin, "%c", &ch))
 			{
-				line[ll] = 0;         /////////////////////////////////////line 是什么
+				line[ll] = 0;        
 				break;
 			}
 			printf("%c", ch);
